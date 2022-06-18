@@ -1,0 +1,9 @@
+ratings of the topics with respective to confidence
+
+
+linux-7
+shell scripting -7
+git -9
+ansible-8
+jenkins-8
+docker- currently studying
