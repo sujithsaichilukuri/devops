@@ -6,4 +6,4 @@ shell scripting -7
 git -9
 ansible-8
 jenkins-8
-docker- currently studying
+docker- 9
