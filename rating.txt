@@ -8,4 +8,5 @@ ansible-8
 jenkins-8
 docker- 9
 kubernetes-7
+terraform - 8
 
